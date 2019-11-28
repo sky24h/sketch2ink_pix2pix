@@ -3,7 +3,7 @@ input sketch, output ink wash painting
 
 
 example:
-![Alt text](https://github.com/Sky24H/sketch2ink/blob/master/results.png)
+![Alt text](https://github.com/Sky24H/sketch2ink/blob/master/result.jpg)
 
 
 --------0.1----------
