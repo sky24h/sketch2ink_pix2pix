@@ -18,7 +18,7 @@ change resnet to resunet
 
 --------0.3----------
 
-(currently working)
+(No updating anymore since I've found a better way to achieve this goal.)
 
 discriminate mountain|tree|river|sky
 
